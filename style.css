@@ -1,0 +1,8 @@
+.nav_header{
+    border-bottom: .1rem solid #E8E8E8;
+    border-width: 100%;
+    font-size: x-large;
+}
+.nav_header a {
+    text-decoration: none;
+}
