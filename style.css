@@ -3,6 +3,25 @@
     border-width: 100%;
     font-size: x-large;
 }
-.nav_header a {
-    text-decoration: none;
+.brand_name{
+    color: #323648;
+    font-size: 1.4rem;
+    margin-left: .3em;
+}
+.special_badge{
+    font-size: 0.8rem;
+    padding: .5rem;
+    background-color: rgb(69, 213, 196);
+    color: #FFFAF0;
+    border-radius: .2rem;
+}
+.batch_name{
+    color: #686868 ;
+    font-size: 1.6rem;
+}
+.icon_color{
+    color: #A6A6A6;
+}
+.icon_color:hover{
+    color: #323648;
 }
