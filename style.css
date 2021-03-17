@@ -25,3 +25,17 @@
 .icon_color:hover{
     color: #323648;
 }
+.inner_nav{
+    border-bottom: .1rem solid #E8E8E8;
+    border-width: 100%;
+    color: #686868;
+}
+.inner_nav li>a{
+    color: #686868;
+    text-decoration: none;
+}
+
+.inner_nav ul > :first-child{
+    border-bottom: solid 4px #419cc7;
+    color: #419cc7;
+}
