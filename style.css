@@ -54,6 +54,9 @@
     border-radius: 1.5rem;
     padding:0.4rem;
     max-width: 18rem;
+    background-color: white;
+    border: .6px solid black;
+    
 }
 
 
@@ -77,5 +80,9 @@
     width: 2rem;
 }
 .notes_btn{
-    
+    border-radius: 4rem;
+
+}
+.footer{
+    border-top: .5px solid #e8e8e8;
 }
