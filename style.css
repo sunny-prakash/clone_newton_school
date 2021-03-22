@@ -1,4 +1,4 @@
-.nav_header {
+    .nav_header {
     border-bottom: .1rem solid #E8E8E8;
     border-width: 100%;
     font-size: x-large;
@@ -119,8 +119,6 @@
 
 .notes_btn {
     border-radius: 4rem;
-}
-
-.footer {
-    border-top: .5px solid #e8e8e8;
-}
+    .footer {
+        border-top: .5px solid #e8e8e8;
+    }
