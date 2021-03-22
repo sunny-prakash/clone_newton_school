@@ -82,6 +82,10 @@
     background-color: #f9f9f9;
 }
 
+.box p {
+    margin: auto;
+}
+
 .video_box {
     width: 12rem;
     height: 12rem;
