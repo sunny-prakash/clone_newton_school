@@ -89,7 +89,7 @@
 .video_box {
     width: 12rem;
     height: 12rem;
-    margin: 0.8rem;
+    margin: .8rem .8rem 0 .8rem;
     border-radius: .3rem;
 }
 
@@ -107,14 +107,13 @@
 .past_videos {
     width: 12rem;
     height: 12rem;
-    margin: 0.8rem;
+    margin: .8rem .8rem 0 .8rem;
     border-radius: .3rem;
 }
 
-.past_videos div {
+.past_videos>div {
     height: 65%;
     border: .3px solid black;
-    padding: 3rem;
     border-radius: 3px;
 }
 
